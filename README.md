@@ -1,6 +1,6 @@
 # Features
 
-- All **$$#LehanaCodes$$** are with proper explanation of the intuition.
+- All **#LehanaCodes** are with proper explanation of the intuition.
 - In addition to text explanation, the code is also fully commented to assist coders in understanding each statement. 
 - Set `DEBUG` to `True` and you can then visualize the logic as the code executes. 
 - Any method (Two-Pointer and Three-Pointer) can be chosen by setting `METHOD` to `1`, `2` or `3`. 
